@@ -1,0 +1,7 @@
+{
+  "name": "example-spring41-resources",
+  "version": "0.1.0",
+  "dependencies": {
+    "angular": "~1.3"
+  }
+}
