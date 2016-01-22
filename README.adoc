@@ -1,0 +1,14 @@
+Example Spring 4.1 Resources
+============================ 
+
+The application showing the new static resource handling features in Spring 4.1
+
+Requirements
+------------
+* http://www.oracle.com/technetwork/java/javase/downloads/index.html[Java Platform (JDK) 7]
+* http://maven.apache.org/[Apache Maven 3.x]
+
+Quick start
+-----------
+. `mvn spring-boot:run`
+. Point your browser to http://localhost:8080/
